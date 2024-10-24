@@ -1,0 +1,21 @@
+td,table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    }
+td    {
+    width:50%;
+    height:100;
+}
+html, body, #wrapper {
+	height:100%;
+	margin: 0;
+	padding: 0;
+	border: none;
+	text-align: center;
+}
+#wrapper {
+	margin: 0 auto;
+	text-align: left;
+	vertical-align: middle;
+	width: 100%;
+}
