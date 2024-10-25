@@ -1,7 +1,11 @@
+body{
+    font-family: "poppins";
+}
 .page1{
     height: 100vh;
     background-color: black;
     color: antiquewhite;
+    font-family: "roboto mono", sans-serif;
 }
 .page2{
     border: 0;
